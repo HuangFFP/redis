@@ -1,0 +1,3 @@
+redis:
+  host: 172.16.5.19
+  password: jkct-redis-123456
